@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CorvoRobot, a natural scientist (bachelor) 
-- 👀 I’m interested in datascience, computerscience, enviroment, paleobotany etc.
+- 👀 I’m interested in datascience, computer science, enviroment, paleobotany etc.
 - 🕷️ I've a special interst about spiders and their silk 🕸️
 - 🌱 I’m currently learning python and its role in bioinformatis
 - 🧬 I want to explore more about genomics.
